@@ -24,14 +24,14 @@ of evaluated game states.
 
 ## 5. Screenshots
 
-### Game Start
-![Game Start](screenshots/start.jpeg)
+## Game Start
+![Game Start](start.jpeg)
 
-### During Gameplay
-![Gameplay 1](screenshots/playing1.jpeg)
-![Gameplay 2](screenshots/playing2.jpeg)
-![Gameplay 3](screenshots/playing3.jpeg)
-![Gameplay 4](screenshots/playing4.jpeg)
+## During Gameplay
+![Gameplay 1](playing1.jpeg)
+![Gameplay 2](playing2.jpeg)
+![Gameplay 3](playing3.jpeg)
+![Gameplay 4](playing4.jpeg)
 
-### Game Over
-![Game Over](screenshots/game_over.jpeg)
+## Game Over
+![Game Over](game_over.jpeg)
