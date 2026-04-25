@@ -1,8 +1,8 @@
 # CS3081 – Assignment 1: Tic-Tac-Toe AI
 
 ## 1. Student Information
-- Name: Arwa Alshaikh
-- Student ID: S22107978
+- Name: Maysoon Idris
+- Student ID: S23108474
 
 ## 2. Implementation Approach
 I implemented the Tic-Tac-Toe AI using the Minimax algorithm.
